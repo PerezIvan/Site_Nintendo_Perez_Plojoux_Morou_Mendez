@@ -1,3 +1,8 @@
 abcd
+g
+<<<<<<< HEAD
+=======
 
-yop
+
+qwertzuiopasdfghjklyxcvbnm
+>>>>>>> FETCH_HEAD
